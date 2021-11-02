@@ -1,0 +1,54 @@
+.faceparts {
+    margin-left: 200px;
+}
+#face {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background: #05b405;
+    border-radius: 200px;
+    margin-top: 20px;
+}
+#eye {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    background: #f8f7f7;
+    border-radius: 40px;
+    z-index: 2;
+    margin-left: 70px;
+    margin-top: -330px;
+    
+
+}
+#eye2 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    background: #fcfbfb;
+    border-radius: 40px;
+    z-index: 2;
+    margin-left: 250px;
+    margin-top: -80px;
+}
+#nose {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: #fafafc;
+    z-index: 2;
+    margin-left: 170px;
+    margin-top: 20px;
+    
+    
+}
+#mouth {
+    position: relative;
+    width: 200px;
+    height: 20px;
+    background: #fafcfb;
+    z-index: 2;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}

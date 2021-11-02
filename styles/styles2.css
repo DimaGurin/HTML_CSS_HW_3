@@ -1,0 +1,30 @@
+#item1 {
+    margin-top: 60px;
+}
+#square {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(231, 135, 167);
+    margin-left: 275px;
+    margin-bottom: -75px;  
+    z-index: 2;
+}
+
+#square2 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+    margin-left: 400px;
+}
+
+#square3 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(63, 184, 115);
+    margin-left: 525px;
+    margin-top: -75px;
+    z-index: 2;
+} 
